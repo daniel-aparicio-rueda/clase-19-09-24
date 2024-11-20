@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1.5;
+}
+
+header {
+    background: linear-gradient(#070784, #4141C4, #0001);
+    color: rgb(255, 255, 255);
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1.5;
+    text-align: center;
+}
+
+.menu{
+    list-style: none;
+    color: #2badaa;
+}
+
+.active{
+    text-decoration: none;
+    color: #2badaa;
+    font-weight: bold;
+}   
+
+.active:hover{
+    color: #DE2FB6;
+    text-decoration: underline;
+}
+
+.boton-contacto{
+    background-color: #27e1de;
+    color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
