@@ -1,0 +1,42 @@
+
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 0;
+    background-color: #f1eeee;
+    color: #333;
+}
+
+header{
+    text-align: center;
+    background-color: #520c0c;
+    color: #fff;
+    padding: 20px;
+}
+
+section{
+    border: 3px solid #ead6d6;
+    background-color: #f1e1e1;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 15px;
+}
+
+h2{
+    color: #520c0c
+}
+
+.box{
+    background-color: #f4efef;
+    border: 1px solid #ead6d6;
+    padding: 10px;
+    margin: 15px auto;
+    text-align: center;
+}
+
+.block{
+    display: block;
+    width: 150px;
+    height: 30px;
+}
